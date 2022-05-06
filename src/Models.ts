@@ -11,6 +11,7 @@ export interface ITodo {
     isCompleted: boolean
 }
 
+
 /**
  * @prop name имя поля (то, что видно)
  * @prop [value] его значние (то, что не видно)
