@@ -1,5 +1,6 @@
 export type typeId = string | number
 
+
 /**
  * @prop title название цели списка
  * @prop isCompleted флаг выполнения
