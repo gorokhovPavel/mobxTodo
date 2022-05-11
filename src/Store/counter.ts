@@ -11,6 +11,7 @@ class Counter {
     }
 
     increment(){
+
         this.count = this.count+1
     }
 
