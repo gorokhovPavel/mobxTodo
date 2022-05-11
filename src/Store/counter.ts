@@ -6,6 +6,7 @@ class Counter {
     count = 0
 
     constructor() {
+
         makeAutoObservable(this)
     }
 
