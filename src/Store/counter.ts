@@ -16,6 +16,7 @@ class Counter {
     }
 
     decrement(){
+
         this.count = this.count-1
     }
 
