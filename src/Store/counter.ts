@@ -1,12 +1,10 @@
 import {makeAutoObservable} from "mobx";
 
 class Counter {
-
     timer = 0
     count = 0
 
     constructor() {
-
         makeAutoObservable(this)
     }
 
